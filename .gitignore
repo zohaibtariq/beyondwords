@@ -1,8 +1,6 @@
 __pycache__/
 *.py[cod]
 .venv/
-.env
-.env.*
 !.env.example
 projects/
 *.sqlite3
@@ -26,3 +24,4 @@ storage-state*.json
 .beyondwords-runtime*/
 beyondwords-mcp*.json
 beyondwords-mcp*.toml
+config.bat
